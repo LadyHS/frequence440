@@ -156,7 +156,8 @@
       "button": "prenez RDV",
       "manifeste": {
         "title": "Manifeste",
-        "catchphrase": "Une vision pédagogique, multi-format et sourcée de la transition"
+        "catchphrase": "Une vision pédagogique, multi-format et sourcée de la transition",
+        "button": "Manifeste"
       }
     },
     "comic": {
