@@ -32,6 +32,17 @@
   margin-top: 80px;
 }
 
+.options {
+  background: #131e1e;
+  color: #ffffff;
+  padding: 50px;
+}
+
+.square {
+  list-style-type: square;
+}
+
+
 /*Comic*/
 .comic {
   display:  flex;
