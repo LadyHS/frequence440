@@ -28,23 +28,21 @@
 		"welcomeSentence": "Sur ce site vous trouverez : des prestations personnalisées et des ressources ouvertes à tous",
 		"rightTop": {
 			"details": {
-				"1": "Diagnostics",
-				"2": "Formations & conférences",
-				"3": "Ateliers de co-construction"
+				"1": "Conférences interactives",
+				"2": "Ateliers de co-construction"
 			},
-			"mainGoal": "Pour accompagner votre entreprise ou école du supérieur",
+			"mainGoal": "Pour accompagner votre entreprise ou école",
 			"link": "PRESTATIONS PERSONNALISÉES",
 			"rawLink": "/prestations"
 		},
 		"rightBottom": {
 			"details": {
-				"1": "Documents de références",
+				"1": "Ateliers",
 				"2": "Synthèses",
-				"3": "Essais",
-				"4": "Mise en contact"
+				"3": "Mise en contact"
 			},
 			"mainGoal": "Pour enrichir votre démarche personnelle",
-			"link": "RESSOURCES OUVERTES À TOUS",
+			"link": "RESSOURCES GRATUITES",
 			"rawLink": "/ressources"
 		},
 		"clients": {
@@ -87,10 +85,8 @@
 			"7": "Mentions légales"
 		},
 		"subLinks": {
-			"1": "Diagnostics",
-			"2": "Formations ludiques",
-			"3": "Conférences interactives",
-			"4": "Ateliers de co-construction"
+			"1": "Conférences interactives",
+			"2": "Ateliers de co-construction"
 		},
 		"design": "Design",
 		"dev": "Développement"
@@ -106,16 +102,16 @@
 		"sectionTitle": "Prestations",
 		"sectionDescription": "Depuis la compréhension et l’analyse des sujets, jusqu’à la co-construction de solutions",
 		"links": {
-			"1": "Diagnostics",
-			"2": "Formations ludiques",
-			"3": "Conférences interactives",
-			"4": "Ateliers de co-construction"
+			"1": "Conférences interactives",
+			"2": "Ateliers de co-construction",
+			"3": "prestations.links.3",
+			"4": "prestations.links.4"
 		},
 		"detailedServices": {
-			"1": "diagnostics",
-			"2": "formations",
-			"3": "conférences",
-			"4": "ateliers"
+			"1": "conférences",
+			"2": "ateliers",
+			"3": "prestations.detailedServices.3",
+			"4": "prestations.detailedServices.4"
 		},
 		"callToAction": {
 			"title": "Prise en main",
@@ -227,7 +223,7 @@
 		},
 		"additional": {
 			"1": "Ces sujets sont très liés, une approche systémique est nécessaire",
-			"2": "Voir le Manifeste",
+			"2": "Résumé ludique",
 			"3": "En tant qu’individu ou entreprise, la tâche peut paraître immense. Mais des démarches à l’échelle locale sont très pertinentes, pour :",
 			"4": "Transformer des impacts négatifs en impacts positifs",
 			"5": "Améliorer notre résilience, notre capacité à nous remettre de chocs"
@@ -235,8 +231,8 @@
 		"callToAction": {
 			"1": "Les individus peuvent agir.",
 			"2": "Faire une transition personnelle",
-			"3": "Les entreprises et écoles du supérieur aussi.",
-			"4": "Agir dans mon entreprise"
+			"3": "Les entreprises et écoles aussi.",
+			"4": "Agir dans mon établissement"
 		},
 		"imbricated": {
 			"first": {

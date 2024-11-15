@@ -51,7 +51,7 @@ var prestations = [
       {
         title: "Fresque du Climat",
         content:
-          "Pour comprendre en intelligence collective les mécanismes du climat et les interactions avec les activités humaines, avec un atelier créatif basé sur les rapports du GIEC, construit par Cédric Ringenbach",
+          "Pour comprendre en intelligence collective les mécanismes du climat et les interactions avec les activités humaines, avec un atelier créatif basé sur les rapports du GIEC",
         callToAction: "demander un devis",
         duration: "3H",
       },
@@ -102,7 +102,7 @@ var prestations = [
     category: "trainings",
     options: [
       {
-        title: "Climate Collage",
+        title: "Climate Fresk",
         content: `Understand the mechanisms of climate change, from its sources to its consequences, with this creative workshop created by Cedric Ringenbach. More info <a target="_blank" href="https://www.climatecollage.org">here</a>`,
         callToAction: "ask for a quote",
         duration: "3H",
@@ -122,7 +122,7 @@ var prestations = [
         duration: "1H to 3H",
       },
       {
-        title: "Biodiversity Collage",
+        title: "Biodiversity Fresk",
         content:
           "Grasp the interactions within and the importance of biodiversity, and solutions to limit its collapse, by C. Sirot, C. Ringenbach, G. & G. Vuillier and Deloitte DD",
         callToAction: "ask for a quote",
@@ -178,8 +178,8 @@ var prestations = [
       },
     ],
     addOn: {
-      title: "With live surveys for audience participation",
-      content: "The technical level conferences can be adapted to the audience",
+      title: "For kids and adults",
+      content: "Based on scientific sources, but fun.",
       callToAction: "ask for a quote",
     },
   },
@@ -215,8 +215,8 @@ var prestations = [
       },
     ],
     addOn: {
-      title: "Des conférences interactives avec questionnaires instantanés",
-      content: "Niveau technique au choix",
+      title: "Des conférences pour les petits et les grands",
+      content: "Basées sur la recherche scientifique, et ludiques.",
       callToAction: "demander un devis",
     },
   },
@@ -224,22 +224,49 @@ var prestations = [
     category: "ateliers",
     options: [
       {
-        title: "Ateliers solutions",
+        title: "Sociocratie et CNV",
+        content:
+          "Pour découvrir et mettre en place des outils de gouvernance horizontale, améliorer la communication dans vos équipes, et trouver un équilibre entre écoute et efficacité.",
+        callToAction: "prendre rdv",
+      },
+      {
+        title: "Ateliers solutions RSE",
         content:
           "Accompagnement de vos équipes dans la co-construction d'objectifs et de plans d'action. Posture de facilitatrice pour encourager l'intelligence collective et l'innovation",
         callToAction: "prendre rdv",
       },
       {
-        title: "Collective impact",
+        title: "Fresque du Climat",
         content:
-          "Accompagnement pour lancer une initiative dans votre communauté locale en partenariat avec les habitants, associations, artistes, collectivités territoriales et autres entreprises locales",
-        callToAction: "prendre rdv",
+          "Pour comprendre en intelligence collective les mécanismes du climat et les interactions avec les activités humaines, avec un atelier créatif basé sur les rapports du GIEC",
+        callToAction: "demander un devis",
+        duration: "3H",
       },
+      {
+        title: "Atelier 2 Tonnes",
+        content:
+          "Pour comprendre les ordres de grandeur des solutions pour le climat et l’interaction individu / collectif, avec une simulation interactive basée sur les bilans carbone des participants, créée par François Laugier. Objectif : 2T de CO2eq/personne/an pour la neutralité carbone",
+        callToAction: "demander un devis",
+        duration: "3H",
+      },
+      {
+        title: "Fresque Biodiversité",
+        content:
+          "Pour comprendre les mécanismes de la biodiversité et comment limiter son effondrement, avec un atelier créatif basé sur le rapport de l’IPBES, par C. Sirot, C. Ringenbach, G. & G. Vuillier et Deloitte DD",
+        callToAction: "demander un devis",
+        duration: "3H",
+      }      
     ],
   },
   {
     category: "workshops",
     options: [
+      {
+        title: "Sociocracy and NVC",
+        content:
+          "To discover and implement horizontal governance tools, improve team communications, and find a balance between well-being and efficiency.",
+        callToAction: "let's meet",
+      },
       {
         title: "Solutions workshops",
         content:
@@ -247,11 +274,25 @@ var prestations = [
         callToAction: "let's meet",
       },
       {
-        title: "Collective Impact action",
-        content:
-          "Launching an initiative in your community, partnering with organizations, local businesses, artists, and local citizens on an issue of your choosing",
-        callToAction: "let's meet",
+        title: "Climate Fresk",
+        content: `Understand the mechanisms of climate change, from its sources to its consequences, with this creative workshop created by Cedric Ringenbach. More info <a target="_blank" href="https://www.climatecollage.org">here</a>`,
+        callToAction: "ask for a quote",
+        duration: "3H",
       },
+      {
+        title: "2 Tons",
+        content:
+          "2 tons, the weight of CO2 we should each be emitting yearly by 2050 to reach carbon neutrality. Enter a simulation to 2050 and chose your solutions to reach climate objectives, both as individuals and collectively. Workshop created by François Laugier",
+        callToAction: "ask for a quote",
+        duration: "3H",
+      },
+      {
+        title: "Biodiversity Fresk",
+        content:
+          "Grasp the interactions within and the importance of biodiversity, and solutions to limit its collapse, by C. Sirot, C. Ringenbach, G. & G. Vuillier and Deloitte DD",
+        callToAction: "ask for a quote",
+        duration: "3H",
+      }      
     ],
   },
 ];

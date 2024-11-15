@@ -59,10 +59,10 @@ function displayData() {
 function cleanLocation() {
   let cutHash = window.location.hash.split("#")[1];
   let finalLocation = cutHash;
-  if (finalLocation === undefined && checkFrEn === "Prestations")
-    finalLocation = "diagnostics";
+   if (finalLocation === undefined && checkFrEn === "Prestations")
+    finalLocation = "conférences";
   if (finalLocation === undefined && checkFrEn === "Services")
-    finalLocation = "analysis";
+    finalLocation = "conferences";
   if (finalLocation === "conf%C3%A9rences") finalLocation = "conférences";
   return finalLocation;
 }

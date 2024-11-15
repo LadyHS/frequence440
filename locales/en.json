@@ -28,23 +28,21 @@
 		"welcomeSentence": "I offer customized services and resources for all",
 		"rightTop": {
 			"details": {
-				"1": "Analysis",
-				"2": "Training & conferences",
-				"3": "Innovation workshops"
+				"1": "Interactive conferences",
+				"2": "Collaborative workshops"
 			},
-			"mainGoal": "For companies and Higher Ed Institutions",
+			"mainGoal": "For companies and schools",
 			"link": "customized services",
 			"rawLink": "/services"
 		},
 		"rightBottom": {
 			"details": {
-				"1": "Literature",
+				"1": "Workshops",
 				"2": "Summaries",
-				"3": "Essays",
-				"4": "Networking"
+				"3": "Networking"
 			},
 			"mainGoal": "For your personal journey",
-			"link": "resources for all",
+			"link": "free resources",
 			"rawLink": "/resources"
 		},
 		"clients": {
@@ -87,10 +85,8 @@
 			"7": "Terms and Conditions"
 		},
 		"subLinks": {
-			"1": "Analysis",
-			"2": "Interactive trainings",
-			"3": "Interactive conferences",
-			"4": "Innovation workshops"
+			"1": "Interactive conferences",
+			"2": "Collaborative workshops"
 		},
 		"design": "Design",
 		"dev": "Development"
@@ -106,16 +102,16 @@
 		"sectionTitle": "Services",
 		"sectionDescription": "From analysis and training, to the creation of solutions through innovation workshops",
 		"links": {
-			"1": "Analysis",
-			"2": "Interactive trainings",
-			"3": "Interactive conferences",
-			"4": "Innovation workshops"
+			"1": "Interactive conferences",
+			"2": "Collaborative workshops",
+			"3": "prestations.links.3",
+			"4": "prestations.links.4"
 		},
 		"detailedServices": {
-			"1": "analysis",
-			"2": "trainings",
-			"3": "conferences",
-			"4": "workshops"
+			"1": "conferences",
+			"2": "workshops",
+			"3": "prestations.detailedServices.3",
+			"4": "prestations.detailedServices.4"
 		},
 		"callToAction": {
 			"title": "Get started",
@@ -227,7 +223,7 @@
 		},
 		"additional": {
 			"1": "These subjects are intertwined, a systemic approach is key to succeed",
-			"2": "See the manifesto",
+			"2": "A fun summary",
 			"3": "For a person, or a company, the task might seem daunting. But some initiatives at a local scale can prove extremely relevant in order to:",
 			"4": "Convert negative impacts into solutions",
 			"5": "Improve our resilience, our ability to survive shocks"
